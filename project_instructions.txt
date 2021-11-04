@@ -1,0 +1,19 @@
+H. Data Compression Algorithms
+Dictionary-Based Data Compression Techniques
+
+There are several approaches to data compression. This project concentrates on the dictionary-based approach.
+
+The original dictionary-based data compression methods were the two Lempel-Ziv methods known today as LZ77 and LZ78. The latter was
+
+improved by Welch, resulting in the popular LZW method. Quite a few variants of these methods are known today, the most popular being
+
+LZSS, LZMW, LZAP, LZY and LZP.
+
+The project involves literature search, studying two or three of the above variants, and implementing one of them.
+
+References: Salomon, G. Motta, and D. Bryant, Data Compression: The Complete Reference, Fourth Edition, 2007.
+
+Bell, J. Cleary, and I. Witten, Text Compression, Prentice Hall, 1990. Mark Nelson et al., The Data Compression Book, M&T Books, 2nd
+edition, 1996.
+
+Sayood, K. Introduction to Data Compression, Third Edition, Morgan Kaufmann Publishers, 2005.
